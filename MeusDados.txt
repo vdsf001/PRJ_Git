@@ -1,4 +1,3 @@
 RA: 918102210
-Nome: Vinicius de Sá Figueiredo
-Email: blob@gmail.com
+Nome: Vinicius de Sá Figueiredo 
 Curso:Sistemas Informação
