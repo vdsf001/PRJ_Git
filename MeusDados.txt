@@ -1,3 +1,5 @@
 RA: 918102210
 Nome: Vinicius de Sá Figueiredo 
+Data de nascimento: 21/01/2000
+Email: blob@gmail.com
 Curso:Sistemas Informação
